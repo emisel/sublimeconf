@@ -1,0 +1,24 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"Can I Use",
+		"ColorPicker",
+		"Emmet",
+		"FreeMarker",
+		"Git",
+		"GitGutter",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeREPL",
+		"Terminal",
+		"TrailingSpaces",
+		"Whitespace"
+	]
+}
